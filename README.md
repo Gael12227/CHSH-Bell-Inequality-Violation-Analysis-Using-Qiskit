@@ -6,7 +6,7 @@ The goal of this project is to bridge concepts from **quantum physics** and **co
 
 ---
 
-## 📌 Overview
+## Overview
 
 Bell’s Inequality provides a fundamental test to distinguish **classical correlations** from **quantum entanglement**.  
 In this project, we:
@@ -19,7 +19,7 @@ In this project, we:
 
 ---
 
-## 🧑‍🔧 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Qiskit (Quantum Circuit Simulation)**
@@ -28,7 +28,7 @@ In this project, we:
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 - Bell state preparation using quantum gates
 - Implementation of CHSH measurement settings
@@ -39,7 +39,7 @@ In this project, we:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 - Ideal simulation shows **CHSH S ≈ 2.7–2.83**, violating the classical bound (S ≤ 2)
 - With increasing noise, S-values decrease and eventually fall below the classical limit
@@ -47,7 +47,7 @@ In this project, we:
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 ```bash
